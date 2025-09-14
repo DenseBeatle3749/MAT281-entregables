@@ -1,6 +1,7 @@
 # Descripción de los laboratorios
 
 * [Laboratorio 01](lab_01.ipynb): Introducción a Python.
-* [Laboratorio 02](lab_02.ipynb): Regresión lineal simple.
+* [Laboratorio 02](lab_02.ipynb): NumPy y regresión lineal simple.
 * [Laboratorio 03](lab_03.ipynb): Manipulación da datos con Pandas.
 * [Laboratorio 04](lab_04.ipynb): Manipulación avanzada con Pandas.
+* [Laboratorio 05](lab_05.ipynb): Visualización de datos con Seaborn.
