@@ -5,3 +5,4 @@
 * [Laboratorio 03](lab_03.ipynb): Manipulación da datos con Pandas.
 * [Laboratorio 04](lab_04.ipynb): Manipulación avanzada con Pandas.
 * [Laboratorio 05](lab_05.ipynb): Visualización de datos con Seaborn.
+* [Laboratorio 06](lab_06.ipynb): Introducción al Machine Learning.
