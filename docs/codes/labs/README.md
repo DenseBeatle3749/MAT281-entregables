@@ -8,3 +8,4 @@
 * [Laboratorio 06](lab_06.ipynb): Introducción al Machine Learning.
 * [Laboratorio 07](lab_07.ipynb): ML aplicado a Regresión y Clasificación.
 * [Laboratorio 08](lab_08.ipynb): Clustering y Reducción de dimensionalidad.
+* [Laboratorio 09](lab_09.ipynb): Overfitting y Optimización de Hiperparámetros.
