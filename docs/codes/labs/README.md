@@ -9,3 +9,4 @@
 * [Laboratorio 07](lab_07.ipynb): ML aplicado a Regresión y Clasificación.
 * [Laboratorio 08](lab_08.ipynb): Clustering y Reducción de dimensionalidad.
 * [Laboratorio 09](lab_09.ipynb): Overfitting y Optimización de Hiperparámetros.
+* [Laboratorio 10](lab_10.ipynb): Series Temporales.
