@@ -1,3 +1,3 @@
 # Descripción de los proyectos
 
-* [Proyecto](project.ipynb): descripción del proyecto.
+* [Proyecto](MAT281_Proyecto.ipynb): Predicción del churn mediante ML, interpretación de resultados y recomendaciones comerciales.
