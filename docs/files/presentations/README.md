@@ -1,4 +1,3 @@
 # Descripción de las Presentaciones
 
-* [Presentación 01](presentation_01.pdf): descripción de la presentación 1.
-* [Presentación 02](presentation_01.pdf):  descripción de la presentación 2.
+* [Presentación Proyecto](MAT281_Presentación_Proyecto.pdf): Proyecto Final del curso: Análisis y Predicción de Deserción de Clientes (Churn) en Telecomunicaciones.
